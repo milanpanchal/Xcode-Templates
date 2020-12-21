@@ -1,7 +1,12 @@
 # Xcode-Templates
-This repository contains custom Xcode file and project templates.
+This repository contains custom Xcode file and project templates. Compatible with Xcode 12
 
-### 
+### Templates
+
+* File Templates
+  * Swift Struct
+  * Swift View Controller
+* Project Templates
 
 ### Installation
 
@@ -15,7 +20,6 @@ This repository contains custom Xcode file and project templates.
    
 
 2. Copy the contents of the `Project Templates` and `File Templates` folders in this repository into the above folders.
-
 
 
 ## Author
