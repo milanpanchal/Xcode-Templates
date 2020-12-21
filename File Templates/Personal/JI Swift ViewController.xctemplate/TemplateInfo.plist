@@ -19,7 +19,7 @@
 	<key>Platforms</key>
 	<array/>
 	<key>DefaultCompletionName</key>
-	<string>File</string>
+	<string>ViewController</string>
 	<key>MainTemplateFile</key>
 	<string>___FILEBASENAME___.swift</string>
 </dict>
