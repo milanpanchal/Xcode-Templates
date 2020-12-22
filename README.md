@@ -4,9 +4,19 @@ This repository contains custom Xcode file and project templates. Compatible wit
 ### Templates
 
 * File Templates
-  * Swift Struct
+  * Swift Files
+    * Struct
+    * Enum
+    * Extension
   * Swift View Controller
 * Project Templates
+
+
+
+### Preview
+
+![](/Resource/File_Templates.png "File Templates")
+
 
 ### Installation
 
